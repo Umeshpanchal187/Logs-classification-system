@@ -1,0 +1,7 @@
+fastapi==0.124.4
+python-dotenv==1.2.1
+groq==0.37.1
+sentence-transformers==5.1.1
+joblib==1.5.2
+pandas==2.3.3
+scikit-learn==1.8.0
