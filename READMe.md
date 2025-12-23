@@ -131,9 +131,6 @@ Create a `.env` file in the project root:
 ```env
 GROQ_API_KEY=your_api_key_here
 ```
-
-> ⚠️ `.env` is ignored by Git for security reasons.
-
 ---
 5️⃣ Run the API Server
 
@@ -243,5 +240,6 @@ Umesh Panchal
 B.Tech AIML | AI & Data Science Enthusiast
 
 GitHub: [https://github.com/Umeshpanchal187](https://github.com/Umeshpanchal187)
+
 
 
